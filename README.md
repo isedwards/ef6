@@ -12,3 +12,6 @@ In addition, the ability to provide a extra customised columns from the select (
 
 Further tasks
 - Switch to stationelement. Only return those stations that can have data for the currently selected element(s), or only those elements available at the currently selected station(s)
+
+NOTES:
+- [IQueryable vs IEnumerable](https://stackoverflow.com/a/2876655/)
