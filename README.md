@@ -14,4 +14,4 @@ Further tasks
 - Switch to stationelement. Only return those stations that can have data for the currently selected element(s), or only those elements available at the currently selected station(s)
 
 NOTES:
-- [IQueryable vs IEnumerable](https://stackoverflow.com/a/2876655/)
+- [IQueryable vs IEnumerable](https://stackoverflow.com/a/2876655/), including notes on paging with [Take](https://msdn.microsoft.com/en-us/library/bb300906.aspx?f=255&MSPPError=-2147217396) and [Skip](https://msdn.microsoft.com/en-us/library/bb357513.aspx) (see also [diagram](https://stackoverflow.com/a/40013006/))
