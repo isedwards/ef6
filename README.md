@@ -15,7 +15,7 @@ Further tasks
 
 NOTES:
 - Array vs List
-- [IQueryable vs IEnumerable](https://stackoverflow.com/a/2876655/), including notes on paging with [Take](https://msdn.microsoft.com/en-us/library/bb300906.aspx?f=255&MSPPError=-2147217396) and [Skip](https://msdn.microsoft.com/en-us/library/bb357513.aspx) (see also [diagram](https://stackoverflow.com/a/40013006/))
+- [IQueryable vs IEnumerable](https://stackoverflow.com/a/2876655/), including notes on paging with [Take](https://msdn.microsoft.com/en-us/library/bb300906.aspx?f=255&MSPPError=-2147217396) and [Skip](https://msdn.microsoft.com/en-us/library/bb357513.aspx) (see also [diagram](https://stackoverflow.com/a/40013006/)). Testing that an [object implements an interface](https://stackoverflow.com/questions/1360267/test-if-an-object-implements-an-interface) doesn't guarented that [extension methods will be available](https://stackoverflow.com/questions/48475363/missingmemberexception-when-using-callbyname).
 - DataSource vs BindingSource
 - Interfaces (vs Duck Typing and ABCs)
 - "[Unable to convert MySQL date/time value to System.DateTime](https://stackoverflow.com/a/5758638/)"
