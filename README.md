@@ -19,3 +19,5 @@ NOTES:
 - DataSource vs BindingSource
 - Interfaces (vs Duck Typing and ABCs)
 - "[Unable to convert MySQL date/time value to System.DateTime](https://stackoverflow.com/a/5758638/)"
+
+- Replace `Chr(34) &` string concatenation with escaped quotes (`"""`), StringBuilder and String.Format. Also check whether using [+ or &](https://stackoverflow.com/questions/734600/the-difference-between-and-for-joining-strings-in-vb-net) for concatenation.
